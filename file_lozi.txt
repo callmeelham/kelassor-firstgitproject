@@ -1,5 +1,5 @@
 n = int(input()).upper()
-
+#dota lozi kenar hm bayd dr biad
 if 1 <= n <= 19 and n % 2 != 0:
     for i in range(n):
         if i <= n // 2:
